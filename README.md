@@ -1,3 +1,4 @@
 # Retail-Analysis
 Retail-Analysis
-![Uploading ML_Project_Architecture.png…]()
+![Retail-Analysis](ML_Project_Architecture.png)
+
